@@ -1,0 +1,14 @@
+node_modules/
+tags
+.idea/
+.vscode/
+*.log
+tmp/
+dist/
+npm-debug.log*
+.DS_Store
+coverage/
+.husky/_
+.env
+allure-results
+package-lock.json
